@@ -2,7 +2,11 @@ package cs6301.g40;
 
 import java.util.*;
 
-
+/*
+ * Group members:
+Mukesh Kumar(mxk170430)
+Shikhar Pandya (sdp170030)
+Arijeet Roy (axr165030)*/
 public class SortUsingHeaps {
     int k;
     ArrayList<Integer> num;

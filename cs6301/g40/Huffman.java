@@ -4,7 +4,11 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+/*
+ * Group members:
+Mukesh Kumar(mxk170430)
+Shikhar Pandya (sdp170030)
+Arijeet Roy (axr165030)*/
 public class Huffman{
 	PriorityQueue<Huffman.CodeTree> pq = new PriorityQueue();
 	
